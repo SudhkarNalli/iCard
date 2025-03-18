@@ -69,3 +69,25 @@ textbox {
   justify-content: center;
   justify-content: top; 
 }
+
+.privacy {
+  padding: 40px 100px 0px 100px;
+}
+
+h3{
+  background: linear-gradient(300deg, #f1e8df, #e49d48, #ffffff);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+  padding: 5px  10px  5px  10px;
+  border-radius: 10px;
+}
+
+
+.accordion-header collapsed {
+  background-color: #bb0000;
+}
+
+a{
+  color: black;
+  text-decoration: none;
+}
